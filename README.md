@@ -9,3 +9,11 @@ AlbumID	AlbumName	ReleaseDate
 3	Speak Now (Taylor's Version)	2023-07-07
 4	Midnights (The Til Dawn Edition)	2023-05-26
 5	Midnights (3am Edition)	2022-10-22
+
+
++-----------------------+
+| Tables_in_practice_db |
++-----------------------+
+| albums                |
+| songfeatures          |
+| songs                 |
